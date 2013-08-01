@@ -1,6 +1,4 @@
 class people::jesseditson {
-  include bash
-  include bash::completion
   include solr
   include libpng
   include heroku

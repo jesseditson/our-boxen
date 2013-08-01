@@ -39,7 +39,6 @@ github "xquartz",    "1.1.0"
 
 # utilities
 github "property_list_key", "0.1.0"
-github "bash",          "1.1.0"
 github "solr",          "1.0.2"
 github "libpng",        "1.0.0"
 github "heroku",        "2.0.0"
