@@ -79,7 +79,6 @@ class people::jesseditson {
   file { 'Dock Plist':
     ensure  => file,
     require => [
-                 Property_list_key['Lower Right Hotcorner - Screen Saver - modifier'],
                  Property_list_key['Hide the dock'],
                  Property_list_key['Align the Dock Left'],
                ],
